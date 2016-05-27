@@ -1,0 +1,43 @@
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 15px;
+}
+
+.nav {
+	float: left;
+	background-color: lightgray;
+	width: 120px;
+	min-height: 620px;
+	padding: 10px;
+	list-style: none;
+}
+
+.content{
+	float: left;
+	padding: 20px;
+	width: 640px;
+}
+
+.ad {
+	float: left;
+	width: 160px;
+	min-height: 620px;
+	padding: 10px;
+	background-color: lightgray;
+}
+
+.footer {
+	clear: both;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
